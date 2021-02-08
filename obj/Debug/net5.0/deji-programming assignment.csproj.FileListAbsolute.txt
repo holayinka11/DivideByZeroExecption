@@ -1,0 +1,16 @@
+C:\Users\ayode\Documents\deji-programming assignment\bin\Debug\net5.0\deji-programming assignment.exe
+C:\Users\ayode\Documents\deji-programming assignment\bin\Debug\net5.0\deji-programming assignment.deps.json
+C:\Users\ayode\Documents\deji-programming assignment\bin\Debug\net5.0\deji-programming assignment.runtimeconfig.json
+C:\Users\ayode\Documents\deji-programming assignment\bin\Debug\net5.0\deji-programming assignment.runtimeconfig.dev.json
+C:\Users\ayode\Documents\deji-programming assignment\bin\Debug\net5.0\deji-programming assignment.dll
+C:\Users\ayode\Documents\deji-programming assignment\bin\Debug\net5.0\ref\deji-programming assignment.dll
+C:\Users\ayode\Documents\deji-programming assignment\bin\Debug\net5.0\deji-programming assignment.pdb
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.csprojAssemblyReference.cache
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.AssemblyInfoInputs.cache
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.AssemblyInfo.cs
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.csproj.CoreCompileInputs.cache
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.dll
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\ref\deji-programming assignment.dll
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.pdb
+C:\Users\ayode\Documents\deji-programming assignment\obj\Debug\net5.0\deji-programming assignment.genruntimeconfig.cache
